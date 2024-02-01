@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frameworks, React**
 
-- 👯 I’m looking to collaborate on [Tiny Blade](https://github.com/trungnine123/Tiny-Blade)
+- 👯 I’m looking to collaborate on [Tiny Blade](https://github.com/trungnine123/Tiny-Blade) A Side-project of mine.
 
 - 💬 Ask me about **JavaScript, React**
 
